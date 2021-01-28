@@ -3,10 +3,6 @@ Task It is a task manager to assign a task based on its priority with a due date
 
 Click Here to view the application - http://task-it.surge.sh/
 
-## Screenshot
-
-![Screenshot](https://github.com/RamyaShivu/TaskIt/blob/main/task-it.PNG)
-
 ## Get started
 
 ### Clone the repo
@@ -25,3 +21,9 @@ npm install
 npm start
 ```
 
+## Screenshot
+
+![Screenshot](https://github.com/RamyaShivu/TaskIt/blob/main/task-it.PNG)
+
+## References
+For styling refer [Link](https://www.creative-tim.com/)
