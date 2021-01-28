@@ -5,7 +5,7 @@ Click Here to view the application - http://task-it.surge.sh/
 
 ## Screenshot
 
-![task-it](https://github.com/RamyaShivu/TaskIt#task-it)
+![Screenshot](https://github.com/RamyaShivu/TaskIt/blob/master/task-it.PNG?raw=true)
 
 ## Get started
 
