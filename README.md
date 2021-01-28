@@ -5,7 +5,7 @@ Click Here to view the application - http://task-it.surge.sh/
 
 ## Screenshot
 
-
+![Screenshot](task-it.png)
 
 ## Get started
 
